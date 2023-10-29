@@ -8,11 +8,16 @@ namespace ImageLibrary
     
     module Operations =
         
+        val toGray: r: int * g: int * b: int -> int * int * int
+        
         val Grayscale:
           width: int ->
             height: int ->
             depth: int ->
             image: (int * int * int) list list -> (int * int * int) list list
+        
+        val applyThreshold:
+          threshold: int -> r: int * g: int * b: int -> int * int * int
         
         val Threshold:
           width: int ->
@@ -21,11 +26,20 @@ namespace ImageLibrary
             image: (int * int * int) list list ->
             threshold: int -> (int * int * int) list list
         
+        val reverseRow: row: 'a list -> 'a list
+        
         val FlipHorizontal:
           width: int ->
             height: int ->
             depth: int ->
             image: (int * int * int) list list -> (int * int * int) list list
+        
+        val colorDistance:
+          r1: int * g1: int * b1: int -> r2: int * g2: int * b2: int -> float
+        
+        val isEdge:
+          threshold: int ->
+            int * int * int -> int * int * int -> int * int * int -> bool
         
         val EdgeDetect:
           width: int ->
@@ -33,6 +47,10 @@ namespace ImageLibrary
             depth: int ->
             image: (int * int * int) list list ->
             threshold: int -> (int * int * int) list list
+        
+        val getColumn: col: int -> image: 'a list list -> 'a list
+        
+        val switchColumnRow: image: 'a list list -> 'a list list
         
         val RotateRight90:
           width: int ->
