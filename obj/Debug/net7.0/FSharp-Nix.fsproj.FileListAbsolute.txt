@@ -27,3 +27,32 @@
 /home/runner/FSharp/obj/Debug/net7.0/FSharp-Nix.pdb
 /home/runner/FSharp/obj/Debug/net7.0/FSharp-Nix.genruntimeconfig.cache
 /home/runner/FSharp/obj/Debug/net7.0/ref/FSharp-Nix.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\FSharp-Nix.exe
+c:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\FSharp-Nix.deps.json
+c:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\FSharp-Nix.runtimeconfig.json
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\FSharp-Nix.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\FSharp-Nix.pdb
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\FSharp.Core.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\cs\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\de\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\es\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\fr\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\it\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\ja\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\ko\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\pl\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\pt-BR\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\ru\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\tr\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\zh-Hans\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\bin\Debug\net7.0\zh-Hant\FSharp.Core.resources.dll
+C:\Main\CS 341\CS 341-Proj-2\obj\Debug\net7.0\FSharp-Nix.fsproj.AssemblyReference.cache
+C:\Main\CS 341\CS 341-Proj-2\obj\Debug\net7.0\FSharp-Nix.AssemblyInfoInputs.cache
+C:\Main\CS 341\CS 341-Proj-2\obj\Debug\net7.0\FSharp-Nix.AssemblyInfo.fs
+C:\Main\CS 341\CS 341-Proj-2\obj\Debug\net7.0\FSharp-Nix.fsproj.CoreCompileInputs.cache
+c:\Main\CS 341\CS 341-Proj-2\obj\Debug\net7.0\FSharp-Nix.fsproj.CopyComplete
+C:\Main\CS 341\CS 341-Proj-2\obj\Debug\net7.0\FSharp-Nix.dll
+C:\Main\CS 341\CS 341-Proj-2\obj\Debug\net7.0\refint\FSharp-Nix.dll
+C:\Main\CS 341\CS 341-Proj-2\obj\Debug\net7.0\FSharp-Nix.pdb
+c:\Main\CS 341\CS 341-Proj-2\obj\Debug\net7.0\FSharp-Nix.genruntimeconfig.cache
+c:\Main\CS 341\CS 341-Proj-2\obj\Debug\net7.0\ref\FSharp-Nix.dll

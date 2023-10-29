@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/FSharp/FSharp-Nix.fsproj": {}
+    "c:\\Main\\CS 341\\CS 341-Proj-2\\FSharp-Nix.fsproj": {}
   },
   "projects": {
-    "/home/runner/FSharp/FSharp-Nix.fsproj": {
+    "c:\\Main\\CS 341\\CS 341-Proj-2\\FSharp-Nix.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/FSharp/FSharp-Nix.fsproj",
+        "projectUniqueName": "c:\\Main\\CS 341\\CS 341-Proj-2\\FSharp-Nix.fsproj",
         "projectName": "FSharp-Nix",
-        "projectPath": "/home/runner/FSharp/FSharp-Nix.fsproj",
-        "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/FSharp/obj/",
+        "projectPath": "c:\\Main\\CS 341\\CS 341-Proj-2\\FSharp-Nix.fsproj",
+        "packagesPath": "C:\\Users\\tam\\.nuget\\packages\\",
+        "outputPath": "c:\\Main\\CS 341\\CS 341-Proj-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/runner/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\tam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/nix/store/vjdf1zzgzxl2agqjymsxd8jshyr0p66j-dotnet-sdk-7.0.100/sdk/7.0.100/FSharp/library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.401\\FSharp\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +37,7 @@
             "FSharp.Core": {
               "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
               "target": "Package",
-              "version": "[7.0.0, )",
+              "version": "[7.0.400, )",
               "generatePathProperty": true
             }
           },
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/nix/store/vjdf1zzgzxl2agqjymsxd8jshyr0p66j-dotnet-sdk-7.0.100/sdk/7.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

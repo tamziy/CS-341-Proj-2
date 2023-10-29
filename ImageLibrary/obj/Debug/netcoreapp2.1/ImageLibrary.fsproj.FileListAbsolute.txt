@@ -22,3 +22,12 @@
 /home/runner/Project-02/ImageLibrary/obj/Debug/netcoreapp2.1/ImageLibrary.AssemblyInfo.fs
 /home/runner/Project-02/ImageLibrary/obj/Debug/netcoreapp2.1/ImageLibrary.dll
 /home/runner/Project-02/ImageLibrary/obj/Debug/netcoreapp2.1/ImageLibrary.pdb
+c:\Main\CS 341\CS 341-Proj-2\ImageLibrary\bin\Debug\netcoreapp2.1\ImageLibrary.deps.json
+c:\Main\CS 341\CS 341-Proj-2\ImageLibrary\bin\Debug\netcoreapp2.1\ImageLibrary.dll
+c:\Main\CS 341\CS 341-Proj-2\ImageLibrary\bin\Debug\netcoreapp2.1\ImageLibrary.pdb
+c:\Main\CS 341\CS 341-Proj-2\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.fsproj.AssemblyReference.cache
+c:\Main\CS 341\CS 341-Proj-2\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.AssemblyInfoInputs.cache
+c:\Main\CS 341\CS 341-Proj-2\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.AssemblyInfo.fs
+c:\Main\CS 341\CS 341-Proj-2\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.fsproj.CoreCompileInputs.cache
+c:\Main\CS 341\CS 341-Proj-2\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.dll
+c:\Main\CS 341\CS 341-Proj-2\ImageLibrary\obj\Debug\netcoreapp2.1\ImageLibrary.pdb

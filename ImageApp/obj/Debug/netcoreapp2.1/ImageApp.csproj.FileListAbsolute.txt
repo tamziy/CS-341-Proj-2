@@ -40,3 +40,19 @@
 /home/runner/Project-02/ImageApp/obj/Debug/netcoreapp2.1/ImageApp.csproj.CopyComplete
 /home/runner/Project-02/ImageApp/obj/Debug/netcoreapp2.1/ImageApp.dll
 /home/runner/Project-02/ImageApp/obj/Debug/netcoreapp2.1/ImageApp.pdb
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\bin\Debug\netcoreapp2.1\ImageApp.deps.json
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\bin\Debug\netcoreapp2.1\ImageApp.runtimeconfig.json
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\bin\Debug\netcoreapp2.1\ImageApp.runtimeconfig.dev.json
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\bin\Debug\netcoreapp2.1\ImageApp.dll
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\bin\Debug\netcoreapp2.1\ImageApp.pdb
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\bin\Debug\netcoreapp2.1\ImageLibrary.dll
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\bin\Debug\netcoreapp2.1\ImageLibrary.pdb
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.csproj.AssemblyReference.cache
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.AssemblyInfoInputs.cache
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.AssemblyInfo.cs
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.csproj.CoreCompileInputs.cache
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.csproj.CopyComplete
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.dll
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.pdb
+c:\Main\CS 341\CS 341-Proj-2\ImageApp\obj\Debug\netcoreapp2.1\ImageApp.genruntimeconfig.cache
